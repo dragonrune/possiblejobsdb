@@ -2,4 +2,8 @@
     text-align: center;
   }
   
-  
+ .JobList {
+   display: flex;
+   justify-content: space-evenly;
+   
+ }
